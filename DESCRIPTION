@@ -5,7 +5,7 @@ URL: https://landesbergn.github.io/rhymer/index.html,
 BugReports: https://github.com/landesbergn/rhymer/issues
 Title: Wrapper for the 'Datamuse' API to Find Rhyming and Associated
         Words
-Version: 1.1.0
+Version: 1.2.0
 Authors@R: person("Noah", "Landesberg", email = "noah.landesberg@gmail.com",
                   role = c("aut", "cre"))
 Description: Wrapper for 'Datamuse' API to find rhyming and other associated words.
@@ -13,15 +13,14 @@ Description: Wrapper for 'Datamuse' API to find rhyming and other associated wor
     more about the 'Datamuse' API here <https://www.datamuse.com/api/>.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
 Depends: R (>= 3.1.0)
 Imports: jsonlite, httr
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Suggests: knitr, rmarkdown, testthat
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-08-14 03:44:50 UTC; noah
+Packaged: 2022-12-26 00:15:43 UTC; noah
 Author: Noah Landesberg [aut, cre]
 Maintainer: Noah Landesberg <noah.landesberg@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-08-14 04:40:02 UTC
+Date/Publication: 2023-01-05 15:50:02 UTC
